@@ -63,7 +63,7 @@ Diversificação dos contratos (CLT, PJ, Estágio).
 
 📂 Arquivos Disponíveis
 
-Resumo_Relatorio_TI.pdf → Relatório completo.
+[Resumo_Relatorio_TI.pdf ](https://github.com/jottam001/planejamento-de-carreira/commit/7db115fee761076f2d08ebfb6f219d7510a2538c)→ Relatório completo.
 
 🚀 Próximos Passos (Plano de Ação – 6 meses)
 
