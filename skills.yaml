@@ -1,0 +1,59 @@
+hard_skills:
+- html
+- css
+- rest
+- api
+Dados_Automacao:
+- python
+- sql
+- postgresql
+- logica
+- lógica
+Backend_Full:
+- node
+- node.js
+- express
+- git
+- github
+- integracao
+- integração
+IA_NoCode:
+- make.com
+- n8n
+- prompt engineering
+- chatgpt
+- api
+- apis
+Infra_DevOps:
+- linux
+- windows server
+- oracle cloud
+- seguranca
+- segurança
+- cloud
+
+
+soft_skills:
+- comunicacao
+- comunicação
+- proatividade
+- trabalho em equipe
+- adaptabilidade
+- resolucao de problemas
+- resolução de problemas
+- organizacao
+- organização
+- escuta ativa
+- aprendizado continuo
+- aprendizado contínuo
+
+
+roles:
+Frontend:
+include: ["javascript","react","react.js","typescript","html","css"]
+Backend:
+include: ["node","node.js","express","sql","postgresql"]
+DevOps:
+include: ["linux","cloud","oracle cloud","seguranca","segurança","windows server"]
+Geral:
+include: ["python","git","github","api","apis","rest"]
